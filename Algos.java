@@ -1,8 +1,12 @@
-/*import java.util.*;
+import java.util.*;
 
 public class Algos {
-    public static boolean isSorted(int[] elements){
+    public static ArrayList<Integer> sequentialSearch(int[] elements, int target) {
+        ArrayList<Integer> found = new ArrayList<>();
 
+        //...
+
+        return found;
 
     }
-}*/
+}
